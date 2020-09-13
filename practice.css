@@ -1,0 +1,42 @@
+#header {
+    border:none;
+    border-radius: 3vw 15vw;
+    background-color: gray;
+    text-align: center;
+    padding: 1px 20px;
+    font-size: 3vw;
+    color: white;
+    min-width: fit-content;
+}
+div h2 {
+    text-shadow: black;
+    border-bottom: 1px  solid rgb(0, 184, 76);
+    
+    
+}
+#menu li {
+    list-style-type: none;
+    background-color: indigo;
+    border-radius: 1vw 3vw;
+
+}
+#menu li a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 1vw 7.5vw;
+    font-size:3vw;
+    
+}
+#para {
+    margin: 3vw;
+}
+#para p {
+    text-align: justify;
+}
+#footer {
+    border: none;
+    background-color: maroon;
+    color: white;
+    text-align: center;
+    border-radius: 7vw 0.5vw;
+}
